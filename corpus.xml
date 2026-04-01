@@ -9,7 +9,7 @@
       <publicationStmt>
         <publisher>DHI Rom</publisher>
         <idno>Libretti</idno>
-        <ref type="repo" target="https://github.com/jhoernsc/Libretti"/>
+        <ref type="repo" target="https://github.com/jhoernsc/libretti"/>
         <availability status="free">
           <licence target="https://creativecommons.org/publicdomain/zero/1.0/">
             Public Domain
