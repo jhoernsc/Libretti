@@ -59,7 +59,7 @@
           <event type="print" when="1724">
             <desc/>
           </event>
-          <event type="premiere" when="1724">
+          <event type="premiere" when="1724-00-00">
             <desc/>
           </event>
         </listEvent>
