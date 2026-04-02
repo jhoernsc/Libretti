@@ -12,7 +12,7 @@
           <idno type="wikidata">Q547389</idno>
           <idno type="rism">people/30000653</idno>
         </author>
-        <author role="composer">
+        <!--<author role="composer">
           <forename>Giuseppe</forename>
           <forename>Maria</forename>
           <surename>Buini</surename>
@@ -25,7 +25,7 @@
           <surename>Schietti</surename>
           <idno type="gnd">1057736090</idno>
           <idno type="wikidata">Q102279160</idno>
-        </author>
+        </author>-->
       </titleStmt>
       <publicationStmt>
             <publisher>Istituto Storico Germanico di Roma</publisher>
@@ -84,6 +84,12 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Libretto</term>
+        </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q131084</classCode>
+      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
