@@ -5,20 +5,44 @@
       <titleStmt>
         <title type="main">Il nemico amante</title>
         <title type="sub">Drama per musica</title>
-        <author key="anschi" role="librettist">Angelo Schietti</author>
-        <composer key="foche" role="composer">Fortunato Chelleri</composer>
-        <composer key="gmbuini" role="composer">Giuseppe Maria Buini</composer>
+        <author role="composer">
+          <forename>Fortunato</forename>
+          <surename>Chelleri</surename>
+          <idno type="gnd">123716055</idno>
+          <idno type="wikidata">Q547389</idno>
+          <idno type="rism">people/30000653</idno>
+        </author>
+        <author role="composer">
+          <forename>Giuseppe</forename>
+          <forename>Maria</forename>
+          <surename>Buini</surename>
+          <idno type="gnd">123716055</idno>
+          <idno type="wikidata">Q16571741</idno>
+          <idno type="rism">people/30007455</idno>
+        </author>
+        <author role="librettist">
+          <forename>Angelo</forename>
+          <surename>Schietti</surename>
+          <idno type="gnd">1057736090</idno>
+          <idno type="wikidata">Q102279160</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
             <publisher>Istituto Storico Germanico di Roma</publisher>
             <pubPlace>Roma</pubPlace>
             <date>2026</date>
             <availability>
-               <p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato</p>
+              <licence target="https://creativecommons.org/licenses/by/4.0/">CCBy 4.0</licence>
             </availability>
          </publicationStmt>
       <sourceDesc>
-            <bibl type="print">
+        <bibl type="digitalSource">
+          <ref target="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00049301-7">Münchener DgitalisierungsZentrum - Digitale Bibliothek</ref>
+          <availability>
+            <licence target="http://creativecommons.org/licenses/by/3.0/de/legalcode">CC-BY-3.0</licence>
+          </availability>
+        </bibl>
+            <bibl type="originalSource">
                <title>Il nemico amante: drama per musica</title>
                <pubPlace>Venezia</pubPlace>
                <publisher>Rossetti</publisher>
@@ -27,6 +51,14 @@
                <note>Teatro Giustiniano di S. Moisè, Carnevale 1724–25</note>
             </bibl>
          </sourceDesc>
+         <listEvent>
+          <event type="print" when="1724">
+            <desc/>
+          </event>
+          <event type="premiere" when="1724">
+            <desc/>
+          </event>
+        </listEvent>
     </fileDesc>
     <profileDesc>
       <particDesc>
